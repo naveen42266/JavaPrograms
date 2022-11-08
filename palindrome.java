@@ -9,7 +9,7 @@ class Main
 	    for(int i=len-1;i>=0;i--){
 	        b=b+a.charAt(i);
 	    }
-	    if(a.equalsIgnoreCase(b)){
+	    if(a.equalsIgnoreCase(b)){  // here this method will ignore the cases(small or caps).It checks string is equal or not 
 	        	System.out.println("Palindome");
 	    }
 	    else{
