@@ -1,6 +1,6 @@
 
 import java.util.*;
-public class Main
+class Main
  {
 static void sort(int arr[], int n)
  {
