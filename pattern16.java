@@ -29,7 +29,7 @@ System.out.println(); //Next line
 
 }
 
-sc.close();
+in.close();
 
 }
 
